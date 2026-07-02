@@ -5,12 +5,6 @@
 
 **Advanced Procedural Landscape Generation & 3D Visualization**
 
-[![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg?style=for-the-badge&logo=python)](#)
-[![Data Science](https://img.shields.io/badge/Data_Science-Ecosystem-orange.svg?style=for-the-badge&logo=jupyter)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](#)
-
-[Features](#-key-features) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-architecture) • [Contributing](#-contributing)
-
 *A modular, high-performance Python engine for algorithmic world-building, mapping elevation, and moisture into dynamic biomes with real-time 2D and 3D rendering.*
 
 <img src="https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Add+a+GIF/Screenshot+of+your+3D+Terrain+Here" alt="Terrain Generator Demo" width="100%">
